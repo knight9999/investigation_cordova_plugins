@@ -39,3 +39,54 @@
         </config-file>
 ```
 
+## cordova-plugin-device
+
+TODO
+
+## cordova-plugin-file
+
+TODO
+
+## cordova-plugin-geolocation
+
+TODO
+
+## cordova-plugin-inappbrowser
+
+TODO
+
+## cordova-plugin-media
+
+TODO
+
+## cordova-plugin-network-information
+
+TODO
+
+## cordova-plugin-dialogs
+
+TODO
+
+## cordova-plugin-splashscreen
+
+TODO
+
+## cordova-plugin-statusbar
+
+TODO
+
+## cordova-plugin-vibration
+
+TODO
+
+## cordova-plugin-whitelist
+
+TODO
+
+## phonegap-plugin-barcodescanner
+
+TODO
+
+## phonegap-plugin-push
+
+TODO
